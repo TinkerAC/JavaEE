@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-
+<a href="HelloServlet?pageNum=12&queryString=ezf">不要点我</a>
 </body>
 </html>

@@ -8,11 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>这是一个起始页!</title>
   </head>
   <body>
-
-<a href="HelloServlet?pageSize=10&pageNo=1">点击发出GET请求</a>
-
+  <h1>Hello,World! </h1>
   </body>
 </html>

@@ -8,12 +8,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Title</title>
 </head>
 
 <body>
 <p>用户注册</p>
-<form action="FromRequestServlet" method="post">
+<form action="HelloServlet" method="post">
     <p>用户名：<input type="text" name="username"></p>
     <p>密码：<input type="password" name="password"></p>
     <p>信息来源：<input type="text" name="channel">
