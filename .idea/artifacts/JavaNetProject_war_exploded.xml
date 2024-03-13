@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaNetProject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaNetProject_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaNetProject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaNetProject" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
